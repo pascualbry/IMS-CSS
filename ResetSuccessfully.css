@@ -1,0 +1,96 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Helvetica;
+  background-color: #4e657a;
+}
+
+/*LOGIN*/
+.login {
+  background-color: white;
+  width: 35%;
+  height: 50%;
+  margin-top: 12%;
+  margin-left: 32%;
+  position: fixed;
+}
+
+/*LOGO*/
+.imgcontainer {
+  text-align: center;
+  padding-top: 7%;
+  padding-bottom: 8%;
+}
+
+.imgcontainer i {
+  font-size: 50px;
+  color: green;
+}
+
+
+p {
+  font-size: 14px;
+}
+
+img.logo {
+  width: 60%;
+  margin-bottom: 5%;
+}
+
+.input-container {
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.icon {
+  padding: 12px;
+  background: #435c70;
+  color: white;
+  min-width: 50px;
+  text-align: center;
+}
+
+.input-field {
+  width: 100%;
+  padding: 5px;
+  outline: none;
+  font-size: 14px;
+}
+
+
+/*LOGIN SUBMIT BUTTON*/
+.btna {
+  background-color: #435c70;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  opacity: 0.9;
+  font-size: 17px;
+}
+
+.btna:hover {
+  opacity: 1;
+}
+
+a {
+  color: #435c70;
+  cursor: pointer;
+  margin-left: 35%;
+  font-size: 12px;
+  text-align: center; 
+  text-decoration: none;
+}
+
+.extra {
+  background-color: #435c70;
+  width: 32%;
+  height: 60%;
+  margin-top: 10%;
+  margin-left: 92%;
+  position: fixed;
+}
+  
